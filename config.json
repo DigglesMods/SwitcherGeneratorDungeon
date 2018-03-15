@@ -4,11 +4,11 @@
 	
 	"name" :  {
 		"en" : "Switcher Generation Caves",
-		"de" : "HÃ¶hlengenerierung Umschalten"
+		"de" : "Höhlengenerierung Umschalten"
 	},
 	"description" : {
 		"en" : "F1 - Switch cave generation on/off, change generated caves.",
-		"de" : "F1 - schalte die HÃ¶hlengenerierung ein/aus, verÃ¤ndere generierte HÃ¶hlen."
+		"de" : "F1 - schalte die Höhlengenerierung ein/aus, verÃ¤ndere generierte Höhlen."
 	},
 	
 	"links" : {
