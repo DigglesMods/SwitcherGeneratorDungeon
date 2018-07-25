@@ -64,7 +64,7 @@ fr "Generate Crystal Caves"
 it "Generate Crystal Caves"
 nl "Generate Crystal Caves"
 es "Generate Crystal Caves"
-pl "Generowanie krysztalowych jaskiñ"
+pl "Generowanie kryszta³owych jaskiñ"
 
 ## "Generation_Lava"
 en "Generate Lava Caves"
